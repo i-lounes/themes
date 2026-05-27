@@ -3743,12 +3743,10 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 :where(.visual-refresh) .colorDefault_c1e9c4 .label_c1e9c4{color: #fff;}
 .visual-refresh .brand_aa8da2.item_aa8da2, .visual-refresh .themed_aa8da2.item_aa8da2{color: #fff;}
 .visual-refresh .container_f369db{background-color: transparent}
-.visual-refresh .messageContainer__95796,.visual-refresh .channelHeader__35a7e{background-color: var(--backgroundColor01);}
 .visual-refresh .messageContainer__95796{border: 1px solid var(--mainColor);}
 .visual-refresh .contentWrapper__08434,.visual-refresh .emojiPickerHasTabWrapper_c0e32c .header_c0e32c,.visual-refresh .wrapper__14245{background-color: var(--backgroundColor01);}
 .visual-refresh .mainCard_f369db{background-color: var(--backgroundColor01);}
 .visual-refresh .header_c0e32c{background-color: var(--backgroundColor01);}
-.visual-refresh .channelTextArea_f75fb0{background-color: var(--backgroundColor01);}
 .wrapper_c0e32c, .wrapper_c0e32c.isBurstReactionPicker_c0e32c{background-color: var(--backgroundColor01);}
 .visual-refresh .container_faa96b:hover{background-color: var(--backgroundColor02);border: 2px solid var(--mainColor);}
 .visual-refresh .header_fed6d3{background-color: var(--backgroundColor01);}
